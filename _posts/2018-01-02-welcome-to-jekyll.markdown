@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to blowROCK blog"
 date:   2018-01-02 22:38:20 +0900
 categories: jekyll update
 ---
