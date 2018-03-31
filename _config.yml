@@ -261,8 +261,8 @@ sass:
 #   path:                atom.xml
 
 # 디폴트 설정값.
-# defaults:
-#   - scope:
-#       type: posts
-#     values:
-#       comments: true
+defaults:
+  - scope:
+      type: posts
+    values:
+      comments: true
