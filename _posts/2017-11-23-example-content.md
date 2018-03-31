@@ -3,12 +3,12 @@
 layout: post
 
 # The title of your post
-title: Example Content
+title: 폰트 테스팅을 위한 포스트
 
 # (Optional) Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: >
-  A page showing how regular markdown content is styled in Hydejack.
+  폰트 설정을 위한 테스트 포스트입니다.
 
 # (Optional) Link to an image that represents your blog post.
 # The aspect ratio should be ~16:9.
@@ -36,17 +36,17 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](404.html).
 
-# Header 1
+# 헤더 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+녹음된 목소리가 스피커를 긁어내듯 울렸다. 파도가 푸르른 저녁에 내던져져 부서졌다. 우리 앞에 펼쳐진 광경은 진정 장엄했다.
 
-## Header 2
+## 헤더 2
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### 헤더 3
 
 ```js
 // Javascript code with syntax highlighting.
