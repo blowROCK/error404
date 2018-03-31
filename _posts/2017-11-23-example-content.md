@@ -1,7 +1,6 @@
 ---
 # Posts need to have the `post` layout
 layout: post
-comments: true
 # The title of your post
 title: 폰트 테스팅을 위한 포스트
 
