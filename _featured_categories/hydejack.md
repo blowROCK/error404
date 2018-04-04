@@ -3,7 +3,7 @@
 layout: list
 
 # The title of the category's page.
-title: Hydejack
+title: H
 
 # The name of the category, used in a post's front matter (e.g. category: <slug>).
 slug: hydejack
@@ -14,5 +14,5 @@ description: >
   Check out `_featured_categories/hydejack.md` to learn how to create your own.
 
 # Setting `menu` will generate an entry in the sidebar for this category.
-# menu: true
+menu: true
 ---
