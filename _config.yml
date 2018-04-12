@@ -52,30 +52,6 @@ author:
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2018. All rights reserved.
 
-
-defaults:
-  - scope:
-      path: blog.md
-    values:
-      menu: true
-      order: 1
-  - scope:
-      path: projects.md
-    values:
-      menu: true
-      order: 2
-  - scope:
-      path: resume.md
-    values:
-      menu: true
-      order: 3
-  - scope:
-      path: about.md
-    values:
-      menu: true
-      order: 4
-
-
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
 # legal:
