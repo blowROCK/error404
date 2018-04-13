@@ -29,11 +29,12 @@ title:                 .Blow
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  프론트-엔드 개발자의 개발 노트
+  프론트-엔드 개발자의 탐험 노트
 
 # A shorter description for the sidebar.
 tagline:               >
-  Front-End 개발자의 Keep Exploring Time!
+  Front-End 개발자의 탐험 일지
+  Keep Exploring!
 
 # A list of keywords for your blog
 keywords:              [font-end, webdeveloper, HTML, CSS, JavaScript, angularJS] 
@@ -44,8 +45,8 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <blow> <ROck>
+  email:               <psbblow@gmail.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -87,7 +88,7 @@ font:                  Nanum Gothic, Noto Sans sans-serif;
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 font_heading:          Roboto Slab, sans-serif
 
-# 3rd Party Integrations
+# 3rd Party Integrations 
 # ----------------------------------------------------------------------------------------
 
 # Set your Google Analytics id to receive `pageview` events.
@@ -96,7 +97,8 @@ google_analytics:      UA-116897251-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                <disqus_shortname>
+#
+disqus:                <disqus_shortname>
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
@@ -270,3 +272,9 @@ sass:
 # so that the location of the feed XML stays the same.
 # feed:
 #   path:                atom.xml
+
+defaults:
+  - scope:
+      type: posts
+    values:
+      comments: true
