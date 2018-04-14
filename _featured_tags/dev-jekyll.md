@@ -5,4 +5,5 @@ slug: jekyll
 category: dev
 menu: false
 order: 4
+comments: true
 ---

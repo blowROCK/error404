@@ -5,5 +5,4 @@ slug: htmlcss
 category: dev
 menu: false
 order: 1
-comments: true
 ---

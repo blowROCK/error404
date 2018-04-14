@@ -27,7 +27,10 @@
 }
 
 .avatar{
-    border: 1px solid #333;
+    border: 1px solid #afafaf !important;
+}
+.border1px{
+    border: 1px solid #afafaf !important;
 }
 .markdown-body {
     word-spacing: 1.8px;
@@ -39,7 +42,6 @@
         display: none;
     }
 }
-
 .bottom-ad {
     text-align: center;
     width: 100%;
