@@ -19,8 +19,11 @@
 {% assign disqus = site.disqus | default:site.disqus_shortname %}
 {% if disqus %}
 <link id="_disqusJS" rel="dns-prefetch" href="https://{{ disqus }}.disqus.com/embed.js">
-<!-- https://{{ disqus }}.disqus.com/embed.js -->
 {% endif %}
+
+
+<!-- <link id="_liveJS" href="{{ '/_js/src/livere.js' | relative_url }}"> -->
+
 
 {% comment %}<!--
 The links below are here so that we can use their `href` in JS (see `_js/src/katex.js`).

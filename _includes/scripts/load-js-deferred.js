@@ -44,6 +44,8 @@ window.setRelStylesheet = function (id) {
 
 window._loaded = false;
 window.loadJSDeferred = function(src, cb) {
+  console.log("window.loadJSDeferred");
+  
   function loadJS() {
     window._loaded = true;
 

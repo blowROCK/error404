@@ -1,0 +1,11 @@
+{% assign disqus = site.disqus | default:site.disqus_shortname %}
+{% if disqus and page.comments %}
+<aside class="comments related" role="complementary">
+    <h2 class="hr livereComments">{{ site.data.strings.comments | default:"Comments" }}</h2>
+    <div id="livere_thread"></div>
+    <div id="lv-container" data-id="city" data-uid="MTAyMC8zNTM1NS8xMTg5MQ==">
+        
+        <noscript>라이브리 댓글 작성을 위해 JavaScript를 활성화 해주세요</noscript>
+    </div>
+</aside>
+{% endif %}

@@ -66,6 +66,7 @@ import { animate, empty, getResolvablePromise, hasFeatures, isSafari, isFirefoxI
 import CrossFader from './cross-fader';
 import upgradeMathBlocks from './katex';
 import loadDisqus from './disqus';
+import loadLive from './livere';
 import setupFLIP from './flip';
 
 // ## Constants
@@ -406,7 +407,7 @@ if (!window._noPushState && hasFeatures(REQUIREMENTS) && !isFirefoxIOS) {
   fadeIn$
     ::tap(upgradeMathBlocks)
     ::tap(loadDisqus)
-
+    
     // Finally, after some debounce time, send a `pageview` to Google Analytics (if applicable).
     ::filter(() => !!window.ga)
     ::debounceTime(GA_DELAY)

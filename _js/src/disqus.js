@@ -15,6 +15,7 @@
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 function loadDisqus2() {
+  console.log("function loadDisqus2");
   window.DISQUS.reset({
     reload: true,
     config() {
@@ -26,6 +27,8 @@ function loadDisqus2() {
 
 
 export default function loadDisqus() {
+  console.log("function loadDisqus");
+  
   if (document.getElementById('disqus_thread')) {
     if (window.DISQUS) {
       loadDisqus2();
