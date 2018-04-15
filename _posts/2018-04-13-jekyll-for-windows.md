@@ -3,17 +3,15 @@ layout: post
 comments: true
 title: "[DEV] Jekyll(지킬) Windows(윈도우 10) 설치하기"
 description: >
-    윈도우에서 지킬 설치와 실행해보기
     Jekyll은 기본적으로 윈도우는 지원하지 않는다.
-    윈도우에서 지킬을 설치하기 위해 퇴근 후 고생했던 방법을 설명하겠습니다.
+    윈도우에서 지킬을 설치하기 위해 퇴근 후 고생했던 방법!
+
 image: /assets/img/default.jpg
 categories: [dev]
 tags: [jekyll]
 date: 2018-04-13
 ---
-
-test
-
+..
 ## 윈도우에서 지킬 설치하기
 {:.no_toc}
 0. list

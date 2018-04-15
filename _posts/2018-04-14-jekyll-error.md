@@ -9,7 +9,7 @@ categories: [dev]
 tags: [jekyll]
 date: 2018-04-14
 ---
-
+..
 ## 윈도우에서 CP949 에러 대처법
 
 ![image](/assets/img/post/jekyll-error/1.png){:.lead}
