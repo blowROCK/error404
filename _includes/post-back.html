@@ -27,9 +27,11 @@
     {{ post.content }}
   {% else %}
     {{ post.excerpt }}
-    <footer class="listFooter">
+    <!-- {% capture post_title %}<a class="heading flip-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>{% endcapture %} -->
+    {% assign text = site.data.strings.continue_reading | default:"Continue reading <!--post_title-->" %}
+    <footer class="testClass">
       <p class="read-more">
-          <a class="heading flip-title" href="{{ post.url | relative_url }}">Read MORE</a>
+        {{ text | replace:"<!--post_title-->", post_title }}
       </p>
     </footer>
   {% endunless %}
