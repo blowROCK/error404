@@ -6,7 +6,7 @@ categories: [dev]
 tags: [jekyll]
 date: 2018-04-13
 ---
-
+![headerimg](/assets/img/subcate/jekyll-head.png)
 Jekyll은 기본적으로 윈도우는 지원하지 않는다.
 윈도우에서 지킬을 설치하기 위해 퇴근 후 고생했던 방법!
 

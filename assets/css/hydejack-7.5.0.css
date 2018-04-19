@@ -264,7 +264,7 @@ a.sidebar-nav-subitem{
     border-bottom: 1px solid rgba(255,255,255,0.2);
 }
 
-.highlighter-rouge{
+code.highlighter-rouge{
     padding: 1px 0.5rem;
     background-color: rgba(0,0,0,0.025);
     font-size: 0.95rem;
@@ -298,4 +298,18 @@ a.sidebar-nav-subitem{
 iframe{
     border: 1px solid #afafaf;
     padding: 5px;
+}
+
+h2{
+    border-bottom: 1px solid #000;
+}
+
+.content img.center{
+    margin: auto;
+}
+.table-allCenter{
+    text-align: center;
+}
+.table-allCenter img{
+    margin: auto;
 }

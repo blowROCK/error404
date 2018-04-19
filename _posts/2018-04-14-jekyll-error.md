@@ -6,7 +6,7 @@ categories: [dev]
 tags: [jekyll]
 date: 2018-04-14
 ---
-
+![headerimg](/assets/img/subcate/jekyll-head.png)
 Window에서 Jekyll CP949 에러 해결 방법
 
 
