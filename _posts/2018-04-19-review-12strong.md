@@ -9,9 +9,6 @@ date: 2018-04-19
 ![headerimg](/assets/img/post/12Strong/post-head.png){:.lead}
 실화를 바탕으로 9.11 테러 직후 11일간의 비공식 작전! 실제와 얼마나 비슷할까?
 
-0. list
-{:toc}
-
 
 ## 배우와 실제 얼굴
 
@@ -118,8 +115,11 @@ Nope. `ODA 595(Operational Detachment-Alpha 595)`는 아프가니스탄으로 �
 
 
 ## 참고
+<div class="youtube">
 <iframe width="100%" height="392" src="https://www.youtube.com/embed/Zxag9p-63RU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</br>
+</div>
+
+<br>
 
 [Special Forces Who Avenged 9/11 (Alex Quade's "Horse Soldiers" SHORT)](https://youtu.be/nvTSsMKfL2c)
 [HistoryVsHollywood](http://www.historyvshollywood.com/reelfaces/12-stron/)
