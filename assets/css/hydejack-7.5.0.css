@@ -343,3 +343,6 @@ pre, .highlight{
     border: 1px solid #ff4d5a;
     padding: 5px;
 }
+.center>p{
+    text-align: center;
+}
