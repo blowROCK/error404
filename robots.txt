@@ -1,4 +1,4 @@
 User-agent: *
 Allow:/
 
-Sitemap: http://www.blow.gq/sitemap.xml
+Sitemap: http://blow.gq/sitemap.xml
