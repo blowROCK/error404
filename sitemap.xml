@@ -28,11 +28,4 @@ layout: null
   </url>
   {% endif %}
   {% endfor %}
-  {% for tag in site.tags %}
-  <url>
-    <loc>{{ site.url }}{{ site.baseurl }}/tags/{{ tag.name }}</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  {% endfor %}
 </urlset>
