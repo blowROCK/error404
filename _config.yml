@@ -187,7 +187,7 @@ include:
 plugins:
   # - jekyll-avatar
   # - jekyll-default-layout
-  - jekyll-feed
+  # - jekyll-feed
   # - jekyll-gist
   # - jekyll-optional-front-matter
   - jekyll-paginate
@@ -196,7 +196,7 @@ plugins:
   - jekyll-relative-links
   # - jekyll-remote-theme
   - jekyll-seo-tag
-  - jekyll-sitemap
+  # - jekyll-sitemap
   # - jekyll-titles-from-headings
 
 # Theme
