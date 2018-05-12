@@ -5,4 +5,5 @@ slug: javascript
 category: dev
 menu: false
 order: 2
+open: true
 ---

@@ -5,4 +5,5 @@ slug: movie
 category: review
 menu: false
 order: 5
+open: true
 ---

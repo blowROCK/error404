@@ -4,6 +4,7 @@ title: Jekyll
 slug: jekyll
 category: dev
 menu: false
-order: 4
+order: 5
 comments: true
+open: true
 ---

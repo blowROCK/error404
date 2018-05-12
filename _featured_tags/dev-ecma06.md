@@ -1,8 +1,9 @@
 ---
 layout: tag-blog
-title: Angular
-slug: angular
+title: ECMA Script06
+slug: ecmascript06
 category: dev
 menu: false
 order: 3
+open: true
 ---

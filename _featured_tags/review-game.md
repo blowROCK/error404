@@ -5,4 +5,5 @@ slug: game
 category: review
 menu: false
 order: 2
+open: true
 ---

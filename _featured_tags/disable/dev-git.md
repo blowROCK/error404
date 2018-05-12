@@ -1,9 +1,8 @@
 ---
 layout: tag-blog
-title: HTML CSS
-slug: htmlcss
+title: GIT
+slug: git
 category: dev
 menu: false
-order: 1
-open: true
+order: 7
 ---

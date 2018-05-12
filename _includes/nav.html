@@ -44,7 +44,7 @@
     </div>
      <ul class="list-body">
        {% for subnode in subpages %}
-           {% if subnode.category == node.slug %}
+           {% if subnode.category == node.slug and subnode.open == true %}
              <li>
                <a class="sidebar-nav-subitem{% if page.url == subnode.url %} active{% endif %}" href="{{ subnode.url | relative_url }}">{{ subnode.title }}</a>
              </li>

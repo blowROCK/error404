@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: GIT
-slug: git
+title: nodeJS
+slug: nodejs
 category: dev
 menu: false
 order: 6
