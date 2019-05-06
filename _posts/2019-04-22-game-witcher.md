@@ -14,7 +14,7 @@ date: 2018-09-04
 <br>
 
 ## 모든 모드는 NEXUS MODS에서 다운 받습니다.
-> [NEXUSMODS](https://www.nexusmods.com/witcher3) <- 가입 필수!
+> [NEXUSMODS](https://www.nexusmods.com/witcher3){:target="_blank"} <- 가입 필수!
 
 <br>
 <br>
@@ -22,7 +22,7 @@ date: 2018-09-04
 ## 1. 그래픽 모드
 
 <br>
-[**Photorealistic Reshade**](https://www.nexusmods.com/witcher3/mods/3177)
+[**Photorealistic Reshade**](https://www.nexusmods.com/witcher3/mods/3177){:target="_blank"}
 
 ![img](/assets/img/post/witcher/1.png){:.center}
 
@@ -34,7 +34,7 @@ date: 2018-09-04
 <br>
 <br>
 
-[**HD Reworked Project**](https://www.nexusmods.com/witcher3/mods/1021)
+[**HD Reworked Project**](https://www.nexusmods.com/witcher3/mods/1021){:target="_blank"}
 
 ![img](/assets/img/post/witcher/2.png){:.center}
 
@@ -42,7 +42,7 @@ date: 2018-09-04
 
 <br>
 
-[**High Quality Faces**](https://www.nexusmods.com/witcher3/mods/1024)
+[**High Quality Faces**](https://www.nexusmods.com/witcher3/mods/1024){:target="_blank"}
 
 ![img](/assets/img/post/witcher/4-1.png){:.center}
 ![img](/assets/img/post/witcher/4-2.png){:.center}
@@ -58,7 +58,7 @@ date: 2018-09-04
 
 <br>
 
-[**Ultra Gore 2 - A Dismemberment Mod**](https://www.nexusmods.com/witcher3/mods/519)
+[**Ultra Gore 2 - A Dismemberment Mod**](https://www.nexusmods.com/witcher3/mods/519){:target="_blank"}
 
 ![img](/assets/img/post/witcher/7.png){:.center}
 
@@ -75,7 +75,7 @@ date: 2018-09-04
 
 <br>
 
-[**Over 9000 - Weight limit mod**](https://www.nexusmods.com/witcher3/mods/3)
+[**Over 9000 - Weight limit mod**](https://www.nexusmods.com/witcher3/mods/3){:target="_blank"}
 
 ![img](/assets/img/post/witcher/3.png){:.center}
 
@@ -84,7 +84,7 @@ date: 2018-09-04
 
 <br>
 
-[**All Quest Objectives On Map**](https://www.nexusmods.com/witcher3/mods/943)
+[**All Quest Objectives On Map**](https://www.nexusmods.com/witcher3/mods/943){:target="_blank"}
 
 ![img](/assets/img/post/witcher/5.png){:.center}
 
@@ -93,7 +93,7 @@ date: 2018-09-04
 
 <br>
 
-[**Fast Travel from Anywhere**](https://www.nexusmods.com/witcher3/mods/324)
+[**Fast Travel from Anywhere**](https://www.nexusmods.com/witcher3/mods/324){:target="_blank"}
 
 ![img](/assets/img/post/witcher/6.png){:.center}
 
@@ -102,7 +102,7 @@ date: 2018-09-04
 
 <br>
 
-[**Quest Sorting**](https://www.nexusmods.com/witcher3/mods/1430)
+[**Quest Sorting**](https://www.nexusmods.com/witcher3/mods/1430){:target="_blank"}
 
 ![img](/assets/img/post/witcher/8.png){:.center}
 
@@ -111,7 +111,7 @@ date: 2018-09-04
 
 <br>
 
-[**No Witcher Sense Zoom FX plus Toggle and Range**](https://www.nexusmods.com/witcher3/mods/351)
+[**No Witcher Sense Zoom FX plus Toggle and Range**](https://www.nexusmods.com/witcher3/mods/351){:target="_blank"}
 
 ![img](/assets/img/post/witcher/9.png){:.center}
 

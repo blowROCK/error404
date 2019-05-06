@@ -48,7 +48,7 @@ Nope. `ODA 595(Operational Detachment-Alpha 595)`는 아프가니스탄으로 �
 <br>
 **왜 ODA 959팀이 선택되었나?**
 
-`ODA 595`팀은 아프간 북부 이웃 국가인 우즈베키스탄의 특수 작전 부대와 계속 적으로 일하던 팀이였고, 가장 최근까지 활동했던 터라 믿음직 스러웠다고함. 팀 전체가 2년간 같이 살아왔고 평균 8년의 복무기간을 가지고있는 베테랑 팀이였음. 실제로 [사막의 폭풍작전](https://namu.wiki/w/%EA%B1%B8%ED%94%84%20%EC%A0%84%EC%9F%81?from=%EA%B1%B8%ED%94%84%EC%A0%84#s-3.3)과 소말리아, 코소보에서 활동도 했었다고함. 또한 헴스워스가 연기한 마크 넬슨은 실제로도 전투경험이 없었다고함.
+`ODA 595`팀은 아프간 북부 이웃 국가인 우즈베키스탄의 특수 작전 부대와 계속 적으로 일하던 팀이였고, 가장 최근까지 활동했던 터라 믿음직 스러웠다고함. 팀 전체가 2년간 같이 살아왔고 평균 8년의 복무기간을 가지고있는 베테랑 팀이였음. 실제로 [사막의 폭풍작전](https://namu.wiki/w/%EA%B1%B8%ED%94%84%20%EC%A0%84%EC%9F%81?from=%EA%B1%B8%ED%94%84%EC%A0%84#s-3.3){:target="_blank"}과 소말리아, 코소보에서 활동도 했었다고함. 또한 헴스워스가 연기한 마크 넬슨은 실제로도 전투경험이 없었다고함.
 
 <br>
 **마크넬슨은 세계 무역센터의 잔해를 가지고 있었나?**
@@ -121,5 +121,5 @@ Nope. `ODA 595(Operational Detachment-Alpha 595)`는 아프가니스탄으로 �
 
 <br>
 
-[Special Forces Who Avenged 9/11 (Alex Quade's "Horse Soldiers" SHORT)](https://youtu.be/nvTSsMKfL2c)
-[HistoryVsHollywood](http://www.historyvshollywood.com/reelfaces/12-stron/)
+[Special Forces Who Avenged 9/11 (Alex Quade's "Horse Soldiers" SHORT)](https://youtu.be/nvTSsMKfL2c){:target="_blank"}
+[HistoryVsHollywood](http://www.historyvshollywood.com/reelfaces/12-stron/){:target="_blank"}
