@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: '[DEV] react styled'
+title: '[DEV] react styled components 간단하게 개념잡기'
 categories: [dev]
 tags: [react]
 date: 2020-03-24
