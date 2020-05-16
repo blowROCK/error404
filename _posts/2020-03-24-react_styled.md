@@ -24,6 +24,7 @@ Button이 만약 3가지가 있다면
 <button className="button button--success">Success</button>
 <button className="button button--danger">Danger</button>
 ~~~
+  
 ~~~CSS
 .button{
     border: none;
@@ -49,7 +50,8 @@ Button이 만약 3가지가 있다면
 <button className="button">Button</button>
 <button className="button success">Success</button>
 <button className="button danger">Danger</button>
-~~~
+~~~  
+
 ~~~SCSS
 .button{
     border: none;
