@@ -1,4 +1,4 @@
-<!-- <script
+<script
   src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
   integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g="
   crossorigin="anonymous"></script>
@@ -8,6 +8,7 @@ src="/assets/lib/jquery.magnific-popup.min.js"></script>
 
 
 <script>
+  document.getElementsByTagName('hy-push-state')[0].addEventListener('hy-push-state-load', function() {
     $('article > p > img[alt]').replaceWith(function () {
         return '<figure>'
             + '<a href="' + $(this).attr('src') + '" class="mg-link">'
@@ -19,4 +20,5 @@ src="/assets/lib/jquery.magnific-popup.min.js"></script>
         type: 'image',
         closeOnContentClick: true
     });
-</script> -->
+  });
+</script>
