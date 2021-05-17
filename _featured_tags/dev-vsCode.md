@@ -1,10 +1,8 @@
 ---
-layout: tag-blog
+layout: tag-list
+type: tag
 title: vsCode
 slug: code
 category: dev
-menu: false
-order: 5
-comments: true
-open: true
+sidebar: false
 ---

@@ -1,9 +1,8 @@
 ---
-layout: tag-blog
+layout: tag-list
+type: tag
 title: GULP
 slug: gulp
 category: dev
-menu: false
-order: 6
-open: true
+sidebar: true
 ---

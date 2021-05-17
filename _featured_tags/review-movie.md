@@ -1,9 +1,8 @@
 ---
-layout: tag-blog
+layout: tag-list
+type: tag
 title: Movie
 slug: movie
 category: review
-menu: false
-order: 5
-open: true
+sidebar: true
 ---

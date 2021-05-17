@@ -1,0 +1,39 @@
+.dl-table {
+  a {
+    @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      text-underline-offset: .7rem;
+    }
+    @supports not ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      padding-bottom: .3rem;
+    }
+  }
+
+  .btn, .gumroad-button  {
+    margin: 1rem 0;
+  }
+}
+.dl-table {
+  a {
+    padding-bottom: 0.4rem;
+  }
+
+  .btn {
+    margin: 1.5rem 0;
+  }
+}
+
+.other-projects.related{
+  .rows{
+    .row{
+      margin-bottom: 1rem;
+      .project-card{
+        padding-bottom: 0.5rem;
+      }
+    }
+  }
+}
+.sidebar-sticky {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}

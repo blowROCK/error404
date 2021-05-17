@@ -1,9 +1,10 @@
 ---
-layout: tag-blog
+layout: tag-list
+type: tag
 title: Game
 slug: game
 category: review
-menu: false
-order: 2
-open: true
+sidebar: true
 ---
+
+

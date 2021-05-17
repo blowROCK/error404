@@ -1,9 +1,8 @@
 ---
-layout: tag-blog
+layout: tag-list
+type: tag
 title: Java Script
 slug: javascript
 category: dev
-menu: false
-order: 2
-open: true
+sidebar: true
 ---

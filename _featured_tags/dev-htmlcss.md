@@ -1,9 +1,8 @@
 ---
-layout: tag-blog
+layout: tag-list
+type: tag
 title: HTML CSS
 slug: htmlcss
 category: dev
-menu: false
-order: 1
-open: true
+sidebar: true
 ---

@@ -2,39 +2,35 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:                <blow> <ROck>
-  email:               <psbblow@gmail.com>
+  name:              script Kid
+  email:             dex@kakao.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:        |
-    귀찮은 것을 싫어하여 가장 효과적, 효율적으로 개발하고 살고자 하는 프론트-엔드 개발자. 
-    프론트-엔드는 시작하기는 쉽지만 마스터하기엔 너무나 광대하고 넓은 분야다.
+  about:             |
+    귀찮은 것을 싫어하여 가장 효과적, 효율적으로 개발하고 살고자 하는 프론트-엔드 개발자.<br> 
     Keep Exploring!
     
-  # about:             |
-  #   Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  #   sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  #   Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  #
-  #   Open `_data/authors.yml` to edit this text.
+  # [Resume][resume] 
+  # [resume]: /resume/
 
   # This photo will be used in the about section
   picture:
-    path:            assets/img/profile128.jpg
+    path:            /assets/img/roketman.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            assets/img/profile128.jpg
-      2x:            assets/img/profile256.jpg
+    # srcset:
+    #   1x:
+    #   2x:
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    # twitter:         <username>
     github:          blowROCK
     email:           mailto:<psbblow@gmail.com>
-    # rss:             https://<url>/feed.xml
+    steam:           76561197968601979
+
+    # rss:             https://lazyren.github.io/feed.xml
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
@@ -52,38 +48,34 @@ author1:
     # deviantart:      <username>
     # ello:            <username>
     # twitch:          <username>
-    # steam:           <number>
+    # steam:           76561198031392006
     # reddit:          <username>
     # tumblr:          <username>
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    # download:        https://github.com/qwtel/hydejack-starter-kit/archive/v7.5.0.zip
+    # download:        <url>
+    # keybase:         <username>
 
 # Another author (optional)
-author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# author2:
+#   name:              <firtname> <lastname>
+#   email:             <mail@domain.tld>
+#   about:             |
+#     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+#     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-    Open `_data/authors.yml` to edit this text.
-  picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
-  accent_color:      '#268bd2'
-  accent_image:
-    background:      '#202020'
-    overlay:         false
+#     Open `_data/authors.yml` to edit this text.
+
+#   picture:           https://placehold.it/128x128
+#   twitter:           <username>
+#   github:            <username>

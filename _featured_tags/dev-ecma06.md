@@ -1,9 +1,8 @@
 ---
-layout: tag-blog
+layout: tag-list
+type: tag
 title: ECMA Script06
 slug: ecmascript06
 category: dev
-menu: false
-order: 3
-open: true
+sidebar: true
 ---

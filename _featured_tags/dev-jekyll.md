@@ -1,10 +1,8 @@
 ---
-layout: tag-blog
+layout: tag-list
+type: tag
 title: Jekyll
 slug: jekyll
 category: dev
-menu: false
-order: 4
-comments: true
-open: true
+sidebar: true
 ---
