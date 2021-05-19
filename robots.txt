@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://error404.co.kr/sitemap.xml
+Sitemap: https://error404.co.kr/sitemap.xml
