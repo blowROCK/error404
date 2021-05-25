@@ -5,6 +5,7 @@ title: '[game] Witcher3 모드 추천'
 categories: [review]
 tags: [game]
 date: 2018-09-04
+thumbnail: '/assets/img/post/witcher/0.png'
 ---
 ![headerimg](/assets/img/post/witcher/0.png)
 {:.lead}

@@ -5,6 +5,7 @@ title: '[Review] 12솔져스(12Strong)은 실화와 얼마나 비슷할까?'
 categories: [review]
 tags: [movie]
 date: 2018-04-19
+thumbnail: '/assets/img/post/12Strong/post-head.png'
 ---
 ![headerimg](/assets/img/post/12Strong/post-head.png){:.lead}
 실화를 바탕으로 9.11 테러 직후 11일간의 비공식 작전! 실제와 얼마나 비슷할까?

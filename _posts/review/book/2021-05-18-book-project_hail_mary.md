@@ -5,6 +5,7 @@ title: '[book] 마션의 작가 최신작 프로젝트 헤일메리'
 categories: [review]
 tags: [book]
 date: 2021-05-18
+thumbnail: '/assets/img/post/book-01/title.jpg'
 ---
 ![headerimg](/assets/img/post/book-01/title.jpg)
 
