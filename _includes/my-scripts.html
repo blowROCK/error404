@@ -49,6 +49,10 @@ The snippet below will run the code on every `hy-push-state-load` event instead.
         }catch(t){
           e(t)
         }
+    }(),
+    function(){
+      console.log("Loaded?")
+      // document.querySelectorAll('article p img').onClick
     }()
   });
 </script>
