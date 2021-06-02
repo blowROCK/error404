@@ -368,7 +368,7 @@ plugins:
 # -- or --
 webmaster_verifications:
    google:               googled56f2ecd3ff64118
-   naver:                naver5fd878bd696208f61eca3090c32bdcbf
+   naver:                naver91ba7dbb5acab8a089d52484f23540bc
 #   alexa:               <verification-id>
 #   yandex:              <verification-id>
 
