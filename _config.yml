@@ -23,17 +23,17 @@ baseurl:               ''
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 .ScriptKid
+title:                 .ZzumBong
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  프론트-엔드 개발자의 탐험 노트
+  Front-End 개발자의 탐험 일지
 
 # A shorter description for the sidebar.
 tagline:               >
   Front-End 개발자의 탐험 일지
-  Keep Exploring!
+  Keep Exploring!. Work smart not hard.
 
 # A list of keywords for your blog
 keywords:              [font-end, webdeveloper, HTML, CSS, JavaScript, angularJS] 
@@ -45,7 +45,7 @@ logo:                  /assets/img/roketman.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                scriptKid
+  name:                ZzumBong
   email:               psbblow@gmail.com
   social:
     github:              blowROCK

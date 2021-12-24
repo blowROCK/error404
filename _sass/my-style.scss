@@ -55,3 +55,16 @@ p.flexWrap{
   display: flex;
   flex-wrap: wrap;
 }
+
+article.post{
+  p{
+    strong{
+      color: #e06c75;
+      font-size: 18px;
+      letter-spacing: 2px;
+    }
+    code{
+      font-size: 15px;
+    }
+  }
+}
