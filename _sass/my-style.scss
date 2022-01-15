@@ -68,3 +68,7 @@ article.post{
     }
   }
 }
+
+div.table-2col + table tr td{
+  width: 50%;
+}
